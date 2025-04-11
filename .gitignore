@@ -1,0 +1,35 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment directories
+*.env
+*.venv
+env/
+venv/
+ENV/
+VENV/
+
+# Data files
+data/*.csv
+
+# Streamlit configuration
+.streamlit/
+
+# Replit-specific files
+.replit
+replit.nix
+uv.lock
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
